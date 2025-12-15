@@ -1,0 +1,5 @@
+{
+  "name": "Peerfo",
+  "description": "A minimalist, distraction-free EPUB reader that persists your library and reading progress locally.",
+  "requestFramePermissions": []
+}
